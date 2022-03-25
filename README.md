@@ -13,6 +13,7 @@
   <img align="" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     
-   ![Snake animation](https://github.com/devCarlosAlexandre/devCarlosAlexandre/blob/output/github-contribution-grid-snake.svg)
+   
   
 </div>
+![Snake animation](https://github.com/devCarlosAlexandre/devCarlosAlexandre/blob/output/github-contribution-grid-snake.svg)
