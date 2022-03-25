@@ -1,6 +1,14 @@
-## Olá eu Sou Carlos Alexandre! 🐱‍🏍
-
+## Olá eu Sou Carlos Alexandre!
+  <div style="display: inline_block" aling="center"><br>
+     
+   ![Snake animation](https://github.com/devCarlosAlexandre/devCarlosAlexandre/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+  
+ ##
+  
 <div align="center">
+
   <a href="https://github.com/devCarlosAlexandre">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devCarlosAlexandre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devCarlosAlexandre&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -13,8 +21,4 @@
   <img align="" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     
 </div>
-  <div style="display: inline_block" aling="center"><br>
-     
-   
-  
-</div>
+
