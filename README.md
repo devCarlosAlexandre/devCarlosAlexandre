@@ -1,4 +1,4 @@
-<img  height="500" align="right" src="https://user-images.githubusercontent.com/63679873/195611501-4892c6df-e575-40b9-864d-bd27f9ffd875.png">
+<img  height="460" align="right" src="https://user-images.githubusercontent.com/63679873/195611501-4892c6df-e575-40b9-864d-bd27f9ffd875.png">
 
 # Olá, eu Sou Carlos Alexandre! 👋
   
