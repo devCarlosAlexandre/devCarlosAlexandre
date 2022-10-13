@@ -6,7 +6,7 @@
 
 Sou apaixonado por resolver problemas, estou sempre buscando aprender mais e adoro resolver desafios. 🚀
 - ⚡⚡
-- 🔭 Atualmente estou trabalhando com: Flutter e Rect.js.
+- 🔭 Atualmente estou trabalhando com: Flutter e React.js.
 - 🌱 Atualmente estou aprendendo: React.js, Flutter, Javascript, Dart.
 - 📌 Sou de Balsas - MA
 - 👨‍💻 Front-end Developer
