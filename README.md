@@ -1,4 +1,18 @@
-## Olá eu Sou Carlos Alexandre!
+<img  height="450" align="right" src="https://user-images.githubusercontent.com/63679873/195611501-4892c6df-e575-40b9-864d-bd27f9ffd875.png">
+
+# Olá, eu Sou Carlos Alexandre! 👋
+  
+  Meu nome é Carlos Alexandre eu tenho 22 anos, estudo programação desde 2020 e atuo profissionalmente deste 02/2022. 🇧🇷 
+
+Sou apaixonado por resolver problemas, estou sempre buscando aprender mais e adoro resolver desafios. 🚀
+
+
+- 🔭 Atualmente estou trabalhando com: Flutter e Rect.js.
+- 🌱 Atualmente estou aprendendo: React.js, Flutter, Javascript, Dart.
+- 📌 Sou de Balsas - MA
+- 👨‍💻 Front-end Developer
+
+
   <div style="display: inline_block" aling="center"><br>
      
    ![Snake animation](https://github.com/devCarlosAlexandre/devCarlosAlexandre/blob/output/github-contribution-grid-snake.svg)
