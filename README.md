@@ -16,13 +16,14 @@ Sou apaixonado por resolver problemas, estou sempre buscando aprender mais e ado
   
 <div>
   
-<img align="center" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://1.bp.blogspot.com/-IN3ZWFjHJhc/XgBnsA8OjqI/AAAAAAAAMDc/SS1oLFVCoeMMdF7wZmZpTvjUaV7w4EwWwCLcBGAsYHQ/s400/7%2BStatic%2BShock%2B%2528Super%2BChoque%2529%2Bhttpsnegro-geek-nerd.blogspot.com.gif"> 
-<img aling="center" height="30" width="30" src="https://user-images.githubusercontent.com/63679873/192350698-2e06f54a-2bdc-4d2f-88f7-ec2e1846c2a2.svg">
-<img align="" alt="Rafa-React" height="30" width="30" src="https://camo.githubusercontent.com/43f9c085821a7258745ceed4ecbcc68c3ffd996049c9d0a2a77c74dd1f5dc80b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f666c75747465722f666c75747465722d6f726967696e616c2e737667">
-<img align="" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    
+<img align="center" alt="devCarlosAlexandre-superchoque" height="250" style="border-radius:50px;" src="https://1.bp.blogspot.com/-IN3ZWFjHJhc/XgBnsA8OjqI/AAAAAAAAMDc/SS1oLFVCoeMMdF7wZmZpTvjUaV7w4EwWwCLcBGAsYHQ/s400/7%2BStatic%2BShock%2B%2528Super%2BChoque%2529%2Bhttpsnegro-geek-nerd.blogspot.com.gif"> 
+<img alt="devCarlosAlexandre-dart" aling="center" height="30" width="30" src="https://user-images.githubusercontent.com/63679873/192350698-2e06f54a-2bdc-4d2f-88f7-ec2e1846c2a2.svg">
+<img align="" alt="devCarlosAlexandre-Flutter" height="30" width="30" src="https://camo.githubusercontent.com/43f9c085821a7258745ceed4ecbcc68c3ffd996049c9d0a2a77c74dd1f5dc80b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f666c75747465722f666c75747465722d6f726967696e616c2e737667">
+<img align="" alt="devCarlosAlexandre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="" alt="devCarlosAlexandre-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="" alt="devCarlosAlexandre-laravel" height="30" width="40" src="https://user-images.githubusercontent.com/63679873/232785363-da74b202-f804-405d-97c1-6fffe79b1785.svg">
+<img align="" alt="devCarlosAlexandre-typescript" height="30" width="40" src="https://user-images.githubusercontent.com/63679873/232785725-f77b9551-a7d4-403e-a1a8-05126d5ac2e8.svg">
+<img align="" alt="devCarlosAlexandre-nextjs" height="30" width="40" src="https://user-images.githubusercontent.com/63679873/232786248-900fea74-45e2-44d7-9a2d-8312f740807c.svg">
 </div>
 
 ##
