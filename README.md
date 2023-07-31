@@ -6,8 +6,8 @@
 
 Sou apaixonado por resolver problemas, estou sempre buscando aprender mais e adoro resolver desafios. 🚀
 - ⚡⚡
-- 🔭 Atualmente estou trabalhando com: Flutter e React.js, Laravel Api.
-- 🌱 Atualmente estou aprendendo: React.js, Flutter, Javascript, Dart e Laravel Api e Node.
+- 🔭 Atualmente estou trabalhando com: Flutter e React.js.
+- 🌱 Atualmente estou aprofundando meus conhecimentos em: React.js e Spring Boot.
 - 📌 Sou de Balsas - MA
 - 👨‍💻 Developer
 - ⚡⚡
