@@ -2,7 +2,7 @@
 
 # Olá, eu Sou Carlos Alexandre! 👋
   
-  Meu nome é Carlos Alexandre eu tenho 22 anos, programo desde 2020 e atuo profissionalmente deste 2022. 🇧🇷 
+  Meu nome é Carlos Alexandre sou desenvolvedor full stack eu tenho 22 anos, programo desde 2020 e atuo profissionalmente deste 2022. 🇧🇷 
 
 Sou apaixonado por resolver problemas, estou sempre buscando aprender mais e adoro resolver desafios. 🚀
 - ⚡⚡
