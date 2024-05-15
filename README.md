@@ -14,8 +14,8 @@ Sou apaixonado por resolver problemas, estou sempre buscando aprender mais e ado
 
  ##
   
-<div>
   
+<div display="flex" align="center" alignItens="center" justifyContent="center">
 <img align="center" alt="devCarlosAlexandre-superchoque" height="250" style="border-radius:50px;" src="https://1.bp.blogspot.com/-IN3ZWFjHJhc/XgBnsA8OjqI/AAAAAAAAMDc/SS1oLFVCoeMMdF7wZmZpTvjUaV7w4EwWwCLcBGAsYHQ/s400/7%2BStatic%2BShock%2B%2528Super%2BChoque%2529%2Bhttpsnegro-geek-nerd.blogspot.com.gif"> 
 <img alt="devCarlosAlexandre-dart" aling="center" height="30" width="30" src="https://user-images.githubusercontent.com/63679873/192350698-2e06f54a-2bdc-4d2f-88f7-ec2e1846c2a2.svg">
 <img align="" alt="devCarlosAlexandre-firebase" height="30"  src="https://github.com/devCarlosAlexandre/devCarlosAlexandre/assets/63679873/c49fb392-aea5-4e59-bbab-edfcfddd98d0">
