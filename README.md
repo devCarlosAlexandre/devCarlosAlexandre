@@ -6,14 +6,13 @@
 
 Sou apaixonado por resolver problemas, estou sempre buscando aprender mais e adoro resolver desafios. 🚀
 - ⚡⚡
-- 🔭 Atualmente estou trabalhando com: Flutter, React e Node.
-- 🌱 Atualmente estou aprofundando meus conhecimentos em: Spring Boot, AWS e Docker.
-- 📌 Sou de Balsas - MA
+- 🔭 Atualmente estou trabalhando com: Flutter, React, Node, Postgres, Sql Server, MySQL.
+- 🌱 Atualmente estou aprofundando meus conhecimentos em:Docker e Arquitetura de software.
+- 📌 Sou de Balsas - MA 
 - 👨‍💻 Developer
 - ⚡⚡
 
  ##
-  
   
 <div display="flex" align="center" alignItens="center" justifyContent="center">
 <img align="center" alt="devCarlosAlexandre-superchoque" height="250" style="border-radius:50px;" src="https://1.bp.blogspot.com/-IN3ZWFjHJhc/XgBnsA8OjqI/AAAAAAAAMDc/SS1oLFVCoeMMdF7wZmZpTvjUaV7w4EwWwCLcBGAsYHQ/s400/7%2BStatic%2BShock%2B%2528Super%2BChoque%2529%2Bhttpsnegro-geek-nerd.blogspot.com.gif"> 
