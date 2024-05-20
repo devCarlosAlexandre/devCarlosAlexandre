@@ -6,10 +6,13 @@
 
 Sou apaixonado por resolver problemas, estou sempre buscando aprender mais e adoro resolver desafios. 🚀
 - ⚡⚡
-- 🔭 Atualmente estou trabalhando com: Flutter, React, Node, Postgres, Sql Server, MySQL.
-- 🌱 Atualmente estou aprofundando meus conhecimentos em:Docker e Arquitetura de software.
-- 📌 Sou de Balsas - MA 
-- 👨‍💻 Developer
+- **🎓 Formação:** Bacharel em Sistemas de Informação.
+- **💼 Cargo:** Desenvolvedor Full Stack.
+- **🔭 Atualmente estou trabalhando com:** Flutter, React, Node, Postgres, Sql Server, MySQL.
+- **🌱Estudos:** Atualmente estou aprofundando meus conhecimentos em Docker e Arquitetura de software.
+- **👨‍💻 Tecnologia que já trabalhei:** Laravel API RESTful, Node, NestJs, Flutter mobile, React, TypeORM, Git, GitHub, Docker.
+- **📌Localidade:** Sou de Balsas - MA 
+- **👨‍💻 Developer**
 - ⚡⚡
 
  ##
