@@ -10,7 +10,7 @@ Sou apaixonado por resolver problemas, estou sempre buscando aprender mais e ado
 - **💼 Cargo atual:** Desenvolvedor Full Stack na @Agroserra-Tecnologia-Agroindustrial .
 - **🔭 Atualmente estou trabalhando com:** Flutter, React, Node, Postgres, Sql Server, MySQL.
 - **🌱Estudos:** Atualmente estou aprofundando meus conhecimentos em Docker e Arquitetura de software.
-- **👨‍💻 Tecnologia que já trabalhei:** Laravel API RESTful, Node, NestJs, Flutter mobile, React, TypeORM, Git, GitHub, Docker.
+- **👨‍💻 Tecnologia que já trabalhei:** Laravel API RESTful, Node, NestJs, Flutter mobile, React, TypeORM, Git, GitHub, Docker, MySQL, PostgreSQL, Sql Server.
 - **📌Localidade:** Sou de Balsas - MA 
 - **👨‍💻 Developer**
 - ⚡⚡
