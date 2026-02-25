@@ -7,7 +7,7 @@
 Sou apaixonado por resolver problemas, estou sempre buscando aprender mais e adoro resolver desafios. 🚀
 - ⚡⚡
 - **🎓 Formação:** Bacharel em Sistemas de Informação.
-- **💼 Cargo atual:** Desenvolvedor Full Stack na @Agroserra-Tecnologia-Agroindustrial .
+- **💼 Cargo atual:** Desenvolvedor Full Stack na @ClubShare .
 - **🔭 Atualmente estou trabalhando com:**  Node com express e Nest, Next, React, Postgres, MySQL, Docker.
 - **🌱Estudos:** Atualmente estou aprofundando meus conhecimentos Arquitetura de software.
 - **👨‍💻 Tecnologia que já trabalhei:** Node, NestJs, React, TypeORM,  Docker, MySQL, PostgreSQL, Sql Server, Flutter mobile, Git, GitHub, Laravel API RESTful.
